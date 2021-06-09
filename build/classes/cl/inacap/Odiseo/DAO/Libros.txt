@@ -1,0 +1,7 @@
+0,Misery,Stephen King,320,true,https://books.google.com/books/content?id=1yJhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,1,Suspenso
+2,Harry Potter y la Orden del Fenix,J.K. Rowlings,901,true,http://books.google.com/books/content?id=tIZAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,5,Novela
+3,It,Stephen King,1503,true,http://books.google.com/books/content?id=HK-gnkponNIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,5,Terror
+4,Cronica del pajaro que da cuerda al mundo,Haruki Murakami,492,true,https://books.google.com/books/content?id=aLDTPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,4,Novela
+4,La Polilla del Baul,Mario Carvajal,32,true,http://books.google.com/books/content?id=mvZ6PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,1,Suspenso
+6,El Psicoanalista,John Katzenbach,528,true,http://books.google.com/books/content?id=iqI4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,5,Thriller
+6,Las ventajas de ser invisible,Stephen Chbosky,264,true,http://books.google.com/books/content?id=z5NIoZuq7DwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,1,Suspenso

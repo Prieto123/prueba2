@@ -1,0 +1,8 @@
+1,Misery,Stephen King,320,true,https://books.google.com/books/content?id=1yJhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,5,Suspenso
+2,Harry Potter y la Orden del Fénix,J.K. Rowlings,901,true,http://books.google.com/books/content?id=tIZAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,5,Novela
+3,It,Stephen King,1503,true,http://books.google.com/books/content?id=HK-gnkponNIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,5,Terror
+4,Cronica del pajaro que da cuerda al mundo,Haruki Murakami,492,true,https://books.google.com/books/content?id=aLDTPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,5,Novela
+5,La Polilla del Baul,Mario Carvajal,32,true,http://books.google.com/books/content?id=mvZ6PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,3,Para ninos
+6,El Psicoanalista,John Katzenbach,528,true,http://books.google.com/books/content?id=iqI4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,3,Thriller
+7,Las ventajas de ser invisible,Stephen Chbosky,264,true,http://books.google.com/books/content?id=iqI4AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,3,Novela
+8,Padre Rico Padre Pobre,Robert T. Kiyosaki,264,true,http://books.google.com/books/content?id=NEz44me8a5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,4,Finanzas personales

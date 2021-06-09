@@ -1,0 +1,149 @@
+body {
+    background-color: #23272A;
+    z-index: 10;
+}
+
+.portada { 
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(35,39,42, 0),
+        rgba(35,39,42, 100)
+      ), url(../img/Peter-Pan-1920.jpg);
+    display: flex;
+    align-items: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1,h2,p,.btn {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h1#title {
+    font-size: 5rem;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 0;
+}
+
+.btn-peter {
+    background: darkgreen;
+    color: white;
+    text-transform: uppercase;
+}
+
+.btn-peter:hover {
+    color: darkgreen;
+    background: white;
+}
+
+/* .navigation {
+    position: fixed;
+} */
+
+
+.nav-link, .nav-item {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav {
+    margin-left: auto;
+}
+
+a.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a.nav-link:hover {
+    color: seagreen;
+}
+
+.card-body {
+    background-color: #292841 !important;
+    margin: 0;
+    padding: 5px;
+
+}
+
+.card-title {
+    color: white;
+}
+
+.stars {
+    float: right;
+    color: white;
+}
+
+.card {
+    background-color: transparent;
+    border-radius: 0;
+    border: 0;
+    margin: 0 20px 20px 20px;
+}
+
+.card2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    background-color: transparent;
+    border-radius: 0;
+    border: 0;
+    margin: 0 0 20px 0;
+}
+
+
+
+label {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login {
+    max-width: 25rem;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    background-color: #17191a;
+}
+
+.addLibro {
+	max-width: 40rem;
+    margin: auto;
+    padding: 20px;
+    background-color: #17191a;
+}
+
+.dataTables_wrapper .dataTables_length select {
+	background-color: #aaa;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+	background-color: #aaa;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+	background-color: #aaa;
+}
+
+a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+	color: white;
+}
+h4 {
+	color: white;
+}
